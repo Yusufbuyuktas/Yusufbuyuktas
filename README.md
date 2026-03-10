@@ -1,4 +1,5 @@
-## Hi there 👋
+## Selam! Ben Yusuf. Oyun geliştiricisiyim.
+## Unity ve C# ile projelerimi hayata geçiriyorum...
 
 <!--
 **Yusufbuyuktas/Yusufbuyuktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
