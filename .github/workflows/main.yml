@@ -24,9 +24,8 @@ jobs:
         with:
           github_user_name: Yusufbuyuktas
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#9a32ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#0d1117
             dist/github-contribution-grid-snake.gif?color_snake=#9a32ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/ocean.svg?color_snake=#9a32ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
