@@ -1,4 +1,4 @@
-## Selam! Ben Yusuf. yazılım geliştiricisiyim.
+## Selam! Ben Yusuf. Yazılım geliştiricisiyim.
 ## C# ile projelerimi hayata geçiriyorum...
 
 <!--
