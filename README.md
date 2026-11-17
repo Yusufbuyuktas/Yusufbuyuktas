@@ -1,5 +1,5 @@
 ## Selam! Ben Yusuf. Yazılım geliştiricisiyim.
-## C# ile projelerimi hayata geçiriyorum...
+##Güncel teknolojlerle projelerimi hayata geçiriyorum...
 
 <!--
 **Yusufbuyuktas/Yusufbuyuktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
